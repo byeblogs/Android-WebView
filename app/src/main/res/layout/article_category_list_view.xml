@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:id="@+id/relative_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginBottom="5dp">
+
+        <TextView
+            android:id="@+id/category"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Top Headlines"
+            android:textColor="@android:color/darker_gray"
+            android:visibility="gone"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/category"
+            android:padding="5dp"
+            android:text="A comma-seperated string of identifiers for the news sources or."
+            android:textColor="@android:color/black"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+
+        <id.tokped.bye.hello.helper.RoundedImageView
+            android:layout_width="fill_parent"
+            android:layout_height="150dp"
+            android:adjustViewBounds="true"
+            android:scaleType="fitCenter"
+            android:layout_below="@+id/title"
+            android:src="@drawable/default_image"
+            android:id="@+id/image_photo"/>
+
+        <TextView
+            android:id="@+id/description"
+            android:layout_width="wrap_content"
+            android:layout_below="@+id/image_photo"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:text="A comma-seperated string of identifiers for the news sources or blogs you want headlines from. Use the /sources endpoint to locate these programmatically or look at the sources index. Note: you can't mix this param with the country or category params."
+            android:textColor="@android:color/darker_gray"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/author"
+            android:layout_width="wrap_content"
+            android:layout_below="@+id/description"
+            android:layout_height="wrap_content"
+            android:paddingLeft="5dp"
+            android:text="Vienna Argentina."
+            android:textColor="@android:color/black"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/publish_date"
+            android:layout_width="wrap_content"
+            android:layout_below="@+id/author"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:text="19/10/2018."
+            android:textColor="@android:color/darker_gray"
+            android:textSize="15sp" />
+
+    </RelativeLayout>
+
+    <View style="@style/Divider"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"/>
+
+</LinearLayout>

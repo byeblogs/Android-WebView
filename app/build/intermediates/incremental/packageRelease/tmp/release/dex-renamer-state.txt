@@ -1,0 +1,4 @@
+#Sat Oct 20 20:08:59 WIB 2018
+base.0=/Users/webster/Documents/Workspace_Air/\#\#\#hallo.bye.tokped.id/app/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

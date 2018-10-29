@@ -1,0 +1,219 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:2:1-60:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/a41580e5c851fd03f4f11e8e082e1a3c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/webster/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/e38f795f6ebff86e9988b93872e39206/AndroidManifest.xml:2:1-11:12
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /Users/webster/.gradle/caches/transforms-1/files-1.1/library-aar-1.0.0.aar/299a66a26f8f1d8f34fd603789ed99ad/AndroidManifest.xml:1:70-7:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/ce117557a5866b6cc8258e900caf7c99/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/d547495d5e85eccba8c9fac9c71d980b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/c8038d6b64e82af0012f9838034e216b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/5df4f6c5d8d00e2e33369f99a6f49475/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/37f0657f8517a0dd9e9df422293dd023/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/9aca1962f7582450989325966fab8d1a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0375df0a9446a15aa55330167fcf524f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/785b99ba650d0059f005f78d4ee01b6d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/90103c73d427c1b85332efb49d3ec7e6/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:2:1-60:12
+	package
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:2:1-60:12
+		INJECTED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:2:1-60:12
+		INJECTED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:7:5-75
+	android:name
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:7:22-73
+application
+ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:9:5-58:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/a41580e5c851fd03f4f11e8e082e1a3c/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/a41580e5c851fd03f4f11e8e082e1a3c/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/webster/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/e38f795f6ebff86e9988b93872e39206/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/webster/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/e38f795f6ebff86e9988b93872e39206/AndroidManifest.xml:9:5-20
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /Users/webster/.gradle/caches/transforms-1/files-1.1/library-aar-1.0.0.aar/299a66a26f8f1d8f34fd603789ed99ad/AndroidManifest.xml:5:5-19
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /Users/webster/.gradle/caches/transforms-1/files-1.1/library-aar-1.0.0.aar/299a66a26f8f1d8f34fd603789ed99ad/AndroidManifest.xml:5:5-19
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/d547495d5e85eccba8c9fac9c71d980b/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/d547495d5e85eccba8c9fac9c71d980b/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/c8038d6b64e82af0012f9838034e216b/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/c8038d6b64e82af0012f9838034e216b/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/5df4f6c5d8d00e2e33369f99a6f49475/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/5df4f6c5d8d00e2e33369f99a6f49475/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/37f0657f8517a0dd9e9df422293dd023/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/37f0657f8517a0dd9e9df422293dd023/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/9aca1962f7582450989325966fab8d1a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/9aca1962f7582450989325966fab8d1a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0375df0a9446a15aa55330167fcf524f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0375df0a9446a15aa55330167fcf524f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/785b99ba650d0059f005f78d4ee01b6d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/785b99ba650d0059f005f78d4ee01b6d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/90103c73d427c1b85332efb49d3ec7e6/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/90103c73d427c1b85332efb49d3ec7e6/AndroidManifest.xml:29:5-20
+	android:screenOrientation
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:13:9-45
+	android:supportsRtl
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:17:9-41
+	android:excludeFromRecents
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:15:9-43
+	android:autoRemoveFromRecents
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:14:9-46
+	android:largeHeap
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:11:9-33
+	android:icon
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:16:9-48
+	android:theme
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:18:9-40
+	android:name
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:10:9-64
+activity#id.tokped.bye.hello.SplashScreen
+ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:20:9-28:20
+	android:noHistory
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:23:13-37
+	android:allowBackup
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:22:13-39
+	android:name
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:21:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:26:27-74
+activity#id.tokped.bye.hello.PortalDetails
+ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:30:9-35:55
+	android:screenOrientation
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:34:13-49
+	android:label
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:32:13-45
+	android:launchMode
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:33:13-43
+	android:theme
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:35:13-53
+	android:name
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:31:13-42
+activity#id.tokped.bye.hello.Portals
+ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:37:9-42:55
+	android:screenOrientation
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:41:13-49
+	android:label
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:39:13-45
+	android:launchMode
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:40:13-43
+	android:theme
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:42:13-53
+	android:name
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:38:13-36
+activity#id.tokped.bye.hello.PortalWebview
+ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:44:9-49:55
+	android:screenOrientation
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:48:13-49
+	android:label
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:46:13-45
+	android:launchMode
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:47:13-43
+	android:theme
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:49:13-53
+	android:name
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:45:13-42
+activity#id.tokped.bye.hello.ArticleSearch
+ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:51:9-56:55
+	android:screenOrientation
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:55:13-49
+	android:label
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:53:13-45
+	android:launchMode
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:54:13-43
+	android:theme
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:56:13-53
+	android:name
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml:52:13-42
+uses-sdk
+INJECTED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml
+INJECTED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/a41580e5c851fd03f4f11e8e082e1a3c/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/a41580e5c851fd03f4f11e8e082e1a3c/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/webster/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/e38f795f6ebff86e9988b93872e39206/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/webster/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/e38f795f6ebff86e9988b93872e39206/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /Users/webster/.gradle/caches/transforms-1/files-1.1/library-aar-1.0.0.aar/299a66a26f8f1d8f34fd603789ed99ad/AndroidManifest.xml:3:5-72
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /Users/webster/.gradle/caches/transforms-1/files-1.1/library-aar-1.0.0.aar/299a66a26f8f1d8f34fd603789ed99ad/AndroidManifest.xml:3:5-72
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/ce117557a5866b6cc8258e900caf7c99/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/ce117557a5866b6cc8258e900caf7c99/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/d547495d5e85eccba8c9fac9c71d980b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/d547495d5e85eccba8c9fac9c71d980b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/c8038d6b64e82af0012f9838034e216b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/c8038d6b64e82af0012f9838034e216b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/5df4f6c5d8d00e2e33369f99a6f49475/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/5df4f6c5d8d00e2e33369f99a6f49475/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/37f0657f8517a0dd9e9df422293dd023/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/37f0657f8517a0dd9e9df422293dd023/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/9aca1962f7582450989325966fab8d1a/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/9aca1962f7582450989325966fab8d1a/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0375df0a9446a15aa55330167fcf524f/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0375df0a9446a15aa55330167fcf524f/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/785b99ba650d0059f005f78d4ee01b6d/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/785b99ba650d0059f005f78d4ee01b6d/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/90103c73d427c1b85332efb49d3ec7e6/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/90103c73d427c1b85332efb49d3ec7e6/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml
+INJECTED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/a41580e5c851fd03f4f11e8e082e1a3c/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml
+		ADDED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/webster/Documents/Workspace_Air/###hallo.bye.tokped.id/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/a41580e5c851fd03f4f11e8e082e1a3c/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/ce117557a5866b6cc8258e900caf7c99/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/ce117557a5866b6cc8258e900caf7c99/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/d547495d5e85eccba8c9fac9c71d980b/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/d547495d5e85eccba8c9fac9c71d980b/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/c8038d6b64e82af0012f9838034e216b/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/c8038d6b64e82af0012f9838034e216b/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/5df4f6c5d8d00e2e33369f99a6f49475/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/5df4f6c5d8d00e2e33369f99a6f49475/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/37f0657f8517a0dd9e9df422293dd023/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/37f0657f8517a0dd9e9df422293dd023/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/9aca1962f7582450989325966fab8d1a/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/9aca1962f7582450989325966fab8d1a/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0375df0a9446a15aa55330167fcf524f/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0375df0a9446a15aa55330167fcf524f/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/785b99ba650d0059f005f78d4ee01b6d/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/785b99ba650d0059f005f78d4ee01b6d/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/90103c73d427c1b85332efb49d3ec7e6/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/90103c73d427c1b85332efb49d3ec7e6/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/a41580e5c851fd03f4f11e8e082e1a3c/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/webster/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/a41580e5c851fd03f4f11e8e082e1a3c/AndroidManifest.xml:26:9-47
